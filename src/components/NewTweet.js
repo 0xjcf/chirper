@@ -50,8 +50,4 @@ class NewTweet extends Component {
   }
 }
 
-function mapStateToProps() {
-  return {};
-}
-
 export default connect()(NewTweet);
